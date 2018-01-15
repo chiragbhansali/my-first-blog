@@ -25,7 +25,7 @@ SECRET_KEY = '_ge#%4=x!j7imujcqjyv5&a2sq4yin@7wtx5a*$2q==2l%rerz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'checkbobber.pythonanywhere.com']
 
 
 # Application definition
